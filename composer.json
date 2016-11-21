@@ -1,0 +1,17 @@
+{
+    "name": "motazfarida/mvc",
+    "authors": [
+        {
+            "name": "Ahmed Said",
+            "email": "info.matrixcode@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":
+            {
+                "psr-4": {
+                    "App\\":"app"
+
+                }
+            }
+}
